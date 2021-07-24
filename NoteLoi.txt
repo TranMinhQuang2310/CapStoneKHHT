@@ -1,0 +1,23 @@
+1. Trong phần học kì
+- Làm sao để check dưới database là số,còn trên giao diện là chữ
+VD : Số 1 - Trên giao diện là Học Kì Hè
+     Số 2 - Trên giao diện là học kì chính
+
+
+2. Trong phần tài khoản
+- Làm sao để check dưới database là số,còn trên giao diện là chữ
+VD : Số 1 - Trên giao diện là sinh viên
+     Số 2 - Trên giao diện là giảng viên
+     Số 3 - Trên giao diện là Khoa
+
+- Khi trỏ vô phân loại phần sinh viên thì mới cho chọn khóa, Còn chọn giảng
+viên hay khoa thì phần khóa sẽ không cho chọn	
+
+3. Trong phần khóa đào tạo
+- Làm trên View sao để Loại hình đào tạo không còn là số nữa
+
+4. Trong phần lớp học
+- Làm trên View sao để Khóa đào tạo không còn là số nữa
+
+5. Trong Tạo accountlophoc dùng 2 ViewBag để lấy khóa phụ 2 bảng không được,
+Lợi coi cách fix sao giúp e nha
